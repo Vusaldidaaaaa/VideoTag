@@ -171,5 +171,5 @@ async def etag(event):
         usrnum = 0
         usrtxt = ""
 
-print(">> Bot rahat çalışır narahat olmayın 🚀 @BLACK_MMC Məlumat ala bilərsiniz <<")
+print(">> Bot rahat çalışırmesel narahat olmayın 🚀 @BLACK_MMC Məlumat ala bilərsiniz <<")
 client.run_until_disconnected()
